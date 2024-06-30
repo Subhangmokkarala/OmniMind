@@ -1,0 +1,2 @@
+# OmniMind
+The Knowledge Navigator
