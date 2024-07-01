@@ -1,0 +1,16 @@
+lecture_notes.txt
+
+=== Introduction to Large Language Models ===
+
+Large Language Models (LLMs) are a class of artificial intelligence models designed to generate human-like text based on input data. These models have evolved significantly over the years, with notable advancements in architecture and performance.
+
+=== Milestone LLM Architectures ===
+
+1. BERT (Bidirectional Encoder Representations from Transformers): Introduced in 2018, BERT revolutionized natural language understanding tasks with its bidirectional training.
+
+2. GPT (Generative Pretrained Transformer): Developed by OpenAI, GPT series models have set benchmarks in text generation and dialogue systems.
+
+=== Applications of LLMs ===
+
+LLMs find applications in various domains such as natural language processing, chatbots, language translation, and more.
+

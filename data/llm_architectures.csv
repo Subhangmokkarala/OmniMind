@@ -1,0 +1,8 @@
+llm_architectures.csv
+
+name,papers,description
+BERT,"Devlin et al., 2018","Bidirectional Encoder Representations from Transformers"
+GPT,"Radford et al., 2018","Generative Pretrained Transformer"
+XLNet,"Yang et al., 2019","Generalized Autoregressive Pretraining for Language Understanding"
+T5,"Raffel et al., 2019","Text-to-Text Transfer Transformer"
+RoBERTa,"Liu et al., 2019","A Robustly Optimized BERT Pretraining Approach"
